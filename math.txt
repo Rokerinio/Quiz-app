@@ -1,0 +1,30 @@
+Pytanie 1| Ile to 2 + 2 ?
+a) 4
+b) 5
+c) 6
+d) 20
+A
+Pytanie 2| Ile to 33 * 33 ?
+a) 66
+b) 990
+c) 1089
+d) 999
+C
+Pytanie 3| Ile to 2520/7 ?
+a) 210
+b) 288,5
+c) 352,5
+d) 360
+D
+Pytanie 4| Która z liczb nie jest liczbą pierwszą ? ?
+a) 2
+b) 1
+c) 5
+d) 7
+B
+Pytanie 5|  Ile w przybliżeniu wynosi pi ?
+a) 3.14
+b) 3.12
+c) 2.13
+d) 3.32
+A
